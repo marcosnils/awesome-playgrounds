@@ -5,6 +5,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 
 
 ## Developer Tools
+[Authzed](https://play.authzed.com/)  
 [Dagger](https://play.dagger.io)
 
 ## Frameworks
@@ -18,4 +19,5 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Rust](https://play.rust-lang.org/)
 
 ## DBMS
+[Axiom.co](https://www.axiom.co/play)  
 [Clickhouse](https://play.clickhouse.com/play)
