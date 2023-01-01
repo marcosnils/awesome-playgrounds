@@ -6,9 +6,11 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 
 ## Developer Tools
 [Authzed](https://play.authzed.com/)  
-[Dagger](https://play.dagger.io)
+[Dagger](https://play.dagger.io)  
+[PHPSandbox](https://play.phpsandbox.io/)  
 
 ## Frameworks
+[Laravel](https://laravelplayground.com/)  
 [Lexical](https://playground.lexical.dev/)  
 [Tailwind](https://play.tailwindcss.com/)  
 [TypeScript](https://www.typescriptlang.org/play)  
@@ -16,6 +18,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 
 ## Programming languages
 [GraphQL](https://graphql.org/swapi-graphql)
+[Golang](https://play.go.dev)  
 [Rust](https://play.rust-lang.org/)
 
 ## DBMS
