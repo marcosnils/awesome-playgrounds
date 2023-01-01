@@ -7,8 +7,12 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 ## Developer Tools
 [Authzed](https://play.authzed.com/)  
 [Dagger](https://play.dagger.io)  
+[Expo](https://snack.expo.dev/)  
+[Open Policy Agent](https://play.openpolicyagent.org/)  
 [PHPSandbox](https://play.phpsandbox.io/)  
 [Prettier](https://prettier.io/playground/)  
+[Typescript ESlint](https://typescript-eslint.io/play/)  
+
 
 ## Frameworks
 [Code Hike](https://play.codehike.org/)
@@ -25,12 +29,16 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Vuetify](https://play.vuetifyjs.com/)
 
 
-## Programming languages
+## Languages
 [Elm](https://elm-lang.org/try)  
 [GraphQL](https://graphql.org/swapi-graphql)  
 [Golang](https://play.go.dev)  
+[Lua](https://www.lua.org/demo.html)  
+[MermaidJS](https://mermaid-js.github.io/mermaid-live-editor/edit)  
+[PlantUML](http://www.plantuml.com/plantuml/uml)  
 [Rust](https://play.rust-lang.org/)
 
 ## DBMS
 [Axiom.co](https://www.axiom.co/play)  
-[Clickhouse](https://play.clickhouse.com/play)
+[Clickhouse](https://play.clickhouse.com/play)  
+[Sqlite](https://sqlime.org/)
