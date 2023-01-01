@@ -8,11 +8,14 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Dagger](https://play.dagger.io)
 
 ## Frameworks
+[Lexical](https://playground.lexical.dev/)  
 [Tailwind](https://play.tailwindcss.com/)  
-[TypeScript](https://www.typescriptlang.org/play)
-
+[TypeScript](https://www.typescriptlang.org/play)  
 
 
 ## Programming languages
 [GraphQL](https://graphql.org/swapi-graphql)
 [Rust](https://play.rust-lang.org/)
+
+## DBMS
+[Clickhouse](https://play.clickhouse.com/play)
