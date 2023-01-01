@@ -17,7 +17,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 
 
 ## Programming languages
-[GraphQL](https://graphql.org/swapi-graphql)
+[GraphQL](https://graphql.org/swapi-graphql)  
 [Golang](https://play.go.dev)  
 [Rust](https://play.rust-lang.org/)
 
