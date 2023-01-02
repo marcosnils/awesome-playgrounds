@@ -7,8 +7,10 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 ## Developer Tools
 [Authzed](https://play.authzed.com/)  
 [Dagger](https://play.dagger.io)  
+[Docker](https://labs.play-with-docker.com/)
 [Expo](https://snack.expo.dev/)  
 [Jupyter Notebook](https://jupyter.org/try)  
+[Kuberentes](https://labs.play-with-k8s.com/)  
 [Markdoc](https://markdoc.dev/sandbox)  
 [Open Policy Agent](https://play.openpolicyagent.org/)  
 [PHPSandbox](https://play.phpsandbox.io/)  
@@ -52,4 +54,5 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 ## DBMS
 [Axiom.co](https://www.axiom.co/play)  
 [Clickhouse](https://play.clickhouse.com/play)  
+[Postgres](https://www.crunchydata.com/developers/tutorials)  
 [Sqlite](https://sqlime.org/)
