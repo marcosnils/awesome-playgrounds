@@ -35,7 +35,9 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Golang](https://play.go.dev)  
 [Lua](https://www.lua.org/demo.html)  
 [MermaidJS](https://mermaid-js.github.io/mermaid-live-editor/edit)  
-[PlantUML](http://www.plantuml.com/plantuml/uml)  
+[OCaml](https://ocaml.org/play)
+[PlantUML](http://www.plantuml.com/plantuml/uml)
+[Pony](https://playground.ponylang.io/)
 [Rust](https://play.rust-lang.org/)
 
 ## DBMS
