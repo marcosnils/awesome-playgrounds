@@ -10,7 +10,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Docker](https://labs.play-with-docker.com/) - Run docker in the browser
 [Expo](https://snack.expo.dev/) - Make an app, run it everywhere  
 [Jupyter Notebook](https://jupyter.org/try) - A Next-Generation Notebook Interface  
-[Kuberentes](https://labs.play-with-k8s.com/) - Run a kubernetes cluster in the browser    
+[Kubernetes](https://labs.play-with-k8s.com/) - Run a kubernetes cluster in the browser    
 [Markdoc](https://markdoc.dev/sandbox) - Powerful, flexible, markdown-based authoring framework  
 [Open Policy Agent](https://play.openpolicyagent.org/) - Policy-based control for cloud native environments  
 [PHPSandbox](https://play.phpsandbox.io/) - Execute and compare PHP online  
