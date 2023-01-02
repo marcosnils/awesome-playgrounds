@@ -15,7 +15,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Open Policy Agent](https://play.openpolicyagent.org/) - Policy-based control for cloud native environments  
 [PHPSandbox](https://play.phpsandbox.io/) - Execute and compare PHP online  
 [Prettier](https://prettier.io/playground/) - Opinionated Code Formatter  
-[Replit](https://repl.it) - Online IDE, compiler and interpreter supporting 50+ languages.
+[Replit](https://repl.it) - Online IDE, compiler and interpreter supporting 50+ languages.  
 [Typescript ESlint](https://typescript-eslint.io/play/) - The tooling that enables ESLint and Prettier to support TypeScript
 
 
@@ -25,7 +25,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Lexical](https://playground.lexical.dev/) - An extensible text editor framework that does things differently  
 [MDXJS](https://mdxjs.com/playground/) - Allows you to use JSX in your markdown content  
 [Prisma](https://playground.prisma.io/) - Next-generation Node.js and TypeScript ORM for PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, and CockroachDB  
-[Qwik](https://qwik.builder.io/playground/) - Serializes the application's state and framework state into HTML upon rendering the application
+[Qwik](https://qwik.builder.io/playground/) - Serializes the application's state and framework state into HTML upon rendering the application  
 [Rome](https://docs.rome.tools/playground/) - Unifies your development stack by combining the functionality of separate tools  
 [Svelte](https://svelte.dev/repl) - A radical new approach to building user interfaces  
 [Tailwind](https://play.tailwindcss.com/) - Utility-first CSS framework  
