@@ -5,7 +5,8 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 
 
 ## Developer Tools
-[Authzed](https://play.authzed.com/) - A managed permissions database for everyone  
+[Authzed](https://play.authzed.com/) - A managed permissions database for everyone
+[Babel](https://babeljs.io/repl/) - Babel is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript  
 [Dagger](https://play.dagger.io) - Develop your CI/CD pipelines as code and run them anywhere  
 [Docker](https://labs.play-with-docker.com/) - Run docker in the browser
 [Expo](https://snack.expo.dev/) - Make an app, run it everywhere  
@@ -16,7 +17,9 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [PHPSandbox](https://play.phpsandbox.io/) - Execute and compare PHP online  
 [Prettier](https://prettier.io/playground/) - Opinionated Code Formatter  
 [Replit](https://repl.it) - Online IDE, compiler and interpreter supporting 50+ languages.  
+[SWC](https://swc.rs/playground/) - SWC is an extensible Rust-based platform for the next generation of fast developer tools
 [Typescript ESlint](https://typescript-eslint.io/play/) - The tooling that enables ESLint and Prettier to support TypeScript
+
 
 
 ## Frameworks
