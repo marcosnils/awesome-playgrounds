@@ -8,7 +8,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Authzed](https://play.authzed.com/) - A managed permissions database for everyone
 [Babel](https://babeljs.io/repl/) - Babel is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript  
 [Dagger](https://play.dagger.io) - Develop your CI/CD pipelines as code and run them anywhere  
-[Docker](https://labs.play-with-docker.com/) - Run docker in the browser
+[Docker](https://labs.play-with-docker.com/) - Run docker in the browser  
 [Expo](https://snack.expo.dev/) - Make an app, run it everywhere  
 [Jupyter Notebook](https://jupyter.org/try) - A Next-Generation Notebook Interface  
 [Kubernetes](https://labs.play-with-k8s.com/) - Run a kubernetes cluster in the browser    
