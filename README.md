@@ -17,7 +17,8 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Prettier](https://prettier.io/playground/) - Opinionated Code Formatter  
 [Replit](https://repl.it) - Online IDE, compiler and interpreter supporting 50+ languages.  
 [Typescript ESlint](https://typescript-eslint.io/play/) - The tooling that enables ESLint and Prettier to support TypeScript
-
+[Babel](https://babeljs.io/repl/) - Babel is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript
+[SWC](https://swc.rs/playground/) - SWC is an extensible Rust-based platform for the next generation of fast developer tools
 
 ## Frameworks
 [Code Hike](https://play.codehike.org/) - Build first-class code walkthroughs for the web  
