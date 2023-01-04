@@ -34,7 +34,8 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Svelte](https://svelte.dev/repl) - A radical new approach to building user interfaces  
 [Tailwind](https://play.tailwindcss.com/) - Utility-first CSS framework  
 [Vue SFC](https://sfc.vuejs.org/) - An approachable, performant and versatile framework for building web user interface  
-[Vuetify](https://play.vuetifyjs.com/) - A Material Design component framework for Vue.js
+[Vuetify](https://play.vuetifyjs.com/) - A Material Design component framework for Vue.js  
+[MudBlazor](https://try.mudblazor.com/) - Play with MudBlazor components entirely in the browser. Test and experiment anytime, anywhere.
 
 
 ## Languages
