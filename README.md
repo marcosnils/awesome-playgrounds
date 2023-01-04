@@ -19,7 +19,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Replit](https://repl.it) - Online IDE, compiler and interpreter supporting 50+ languages.  
 [SWC](https://swc.rs/playground/) - SWC is an extensible Rust-based platform for the next generation of fast developer tools  
 [Typescript ESlint](https://typescript-eslint.io/play/) - The tooling that enables ESLint and Prettier to support TypeScript  
-[Wordpress](https://github.com/WordPress/wordpress-playground) - An experimental in-browser WordPress that runs without a PHP server thanks to the magic of WebAssembly
+[Wordpress](https://wasm.wordpress.net/wordpress.html) - An experimental in-browser WordPress that runs without a PHP server thanks to the magic of WebAssembly
 
 
 
