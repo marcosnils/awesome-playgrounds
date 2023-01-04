@@ -28,14 +28,14 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Laravel](https://laravelplayground.com/) - Allows you to try out PHP and Laravel all from your browser  
 [Lexical](https://playground.lexical.dev/) - An extensible text editor framework that does things differently  
 [MDXJS](https://mdxjs.com/playground/) - Allows you to use JSX in your markdown content  
+[MudBlazor](https://try.mudblazor.com/) - Play with MudBlazor components entirely in the browser. Test and experiment anytime, anywhere.  
 [Prisma](https://playground.prisma.io/) - Next-generation Node.js and TypeScript ORM for PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, and CockroachDB  
 [Qwik](https://qwik.builder.io/playground/) - Serializes the application's state and framework state into HTML upon rendering the application  
 [Rome](https://docs.rome.tools/playground/) - Unifies your development stack by combining the functionality of separate tools  
 [Svelte](https://svelte.dev/repl) - A radical new approach to building user interfaces  
 [Tailwind](https://play.tailwindcss.com/) - Utility-first CSS framework  
 [Vue SFC](https://sfc.vuejs.org/) - An approachable, performant and versatile framework for building web user interface  
-[Vuetify](https://play.vuetifyjs.com/) - A Material Design component framework for Vue.js  
-[MudBlazor](https://try.mudblazor.com/) - Play with MudBlazor components entirely in the browser. Test and experiment anytime, anywhere.
+[Vuetify](https://play.vuetifyjs.com/) - A Material Design component framework for Vue.js
 
 
 ## Languages
