@@ -27,6 +27,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Code Hike](https://play.codehike.org/) - Build first-class code walkthroughs for the web  
 [Laravel](https://laravelplayground.com/) - Allows you to try out PHP and Laravel all from your browser  
 [Lexical](https://playground.lexical.dev/) - An extensible text editor framework that does things differently  
+[Lit](https://lit.dev/playground/) - A simple library for building fast, lightweight web components
 [MDXJS](https://mdxjs.com/playground/) - Allows you to use JSX in your markdown content  
 [MudBlazor](https://try.mudblazor.com/) - Play with MudBlazor components entirely in the browser. Test and experiment anytime, anywhere.  
 [Prisma](https://playground.prisma.io/) - Next-generation Node.js and TypeScript ORM for PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, and CockroachDB  
