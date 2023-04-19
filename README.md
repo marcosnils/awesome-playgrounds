@@ -56,6 +56,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Python Shell](https://www.python.org/shell/) - A high-level, general-purpose programming language  
 [Pony](https://playground.ponylang.io/) - An open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language  
 [Rust](https://play.rust-lang.org/) - A multi-paradigm, general-purpose programming language  
+[Rust syntax explainer](https://github.com/jrvidal/explaine.rs) - An interactive playground to explore Rust syntax, made with WebAssembly and [syn](https://crates.io/crates/syn)
 [Scastie](https://scastie.scala-lang.org) - Run any Scala program with any library in your browser  
 [SwiftFiddle](https://swiftfiddle.com) - An online playground for creating, sharing and embedding Swift fiddles  
 [TypeScript](https://www.typescriptlang.org/play) - Strongly typed programming language that builds on JavaScript
