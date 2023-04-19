@@ -34,6 +34,8 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Qwik](https://qwik.builder.io/playground/) - Serializes the application's state and framework state into HTML upon rendering the application  
 [Rome](https://docs.rome.tools/playground/) - Unifies your development stack by combining the functionality of separate tools  
 [Svelte](https://svelte.dev/repl) - A radical new approach to building user interfaces  
+[SvelteLab](https://www.sveltelab.dev/) - Supercharged REPL for Svelte, which includes command palette, Vim keybindings, templates, and more
+[SvelteKit](https://learn.svelte.dev/tutorial/welcome-to-svelte) - A step-by-step fullstack tutorial, running entirely inside the browser (powered by [WebContainer API](https://webcontainers.io/)).
 [Tailwind](https://play.tailwindcss.com/) - Utility-first CSS framework  
 [Vue SFC](https://sfc.vuejs.org/) - An approachable, performant and versatile framework for building web user interface  
 [Vuetify](https://play.vuetifyjs.com/) - A Material Design component framework for Vue.js
