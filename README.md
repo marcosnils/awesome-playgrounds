@@ -28,15 +28,16 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Code Hike](https://play.codehike.org/) - Build first-class code walkthroughs for the web  
 [Laravel](https://laravelplayground.com/) - Allows you to try out PHP and Laravel all from your browser  
 [Lexical](https://playground.lexical.dev/) - An extensible text editor framework that does things differently  
-[Lit](https://lit.dev/playground/) - A simple library for building fast, lightweight web components
+[Lit](https://lit.dev/playground/) - A simple library for building fast, lightweight web components  
 [MDXJS](https://mdxjs.com/playground/) - Allows you to use JSX in your markdown content  
 [MudBlazor](https://try.mudblazor.com/) - Play with MudBlazor components entirely in the browser. Test and experiment anytime, anywhere.  
 [Prisma](https://playground.prisma.io/) - Next-generation Node.js and TypeScript ORM for PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, and CockroachDB  
 [Qwik](https://qwik.builder.io/playground/) - Serializes the application's state and framework state into HTML upon rendering the application  
 [Rome](https://docs.rome.tools/playground/) - Unifies your development stack by combining the functionality of separate tools  
+[React PDF](https://react-pdf-repl.vercel.app/) - Play and debug react-pdf components in browser  
 [Svelte](https://svelte.dev/repl) - A radical new approach to building user interfaces  
-[SvelteLab](https://www.sveltelab.dev/) - Supercharged REPL for Svelte, which includes command palette, Vim keybindings, templates, and more
-[SvelteKit](https://learn.svelte.dev/tutorial/welcome-to-svelte) - A step-by-step fullstack tutorial, running entirely inside the browser (powered by [WebContainer API](https://webcontainers.io/)).
+[SvelteLab](https://www.sveltelab.dev/) - Supercharged REPL for Svelte, which includes command palette, Vim keybindings, templates, and more  
+[SvelteKit](https://learn.svelte.dev/tutorial/welcome-to-svelte) - A step-by-step fullstack tutorial, running entirely inside the browser (powered by [WebContainer API](https://webcontainers.io/)).  
 [Tailwind](https://play.tailwindcss.com/) - Utility-first CSS framework  
 [Vue SFC](https://sfc.vuejs.org/) - An approachable, performant and versatile framework for building web user interface  
 [Vuetify](https://play.vuetifyjs.com/) - A Material Design component framework for Vue.js
@@ -57,7 +58,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Python Shell](https://www.python.org/shell/) - A high-level, general-purpose programming language  
 [Pony](https://playground.ponylang.io/) - An open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language  
 [Rust](https://play.rust-lang.org/) - A multi-paradigm, general-purpose programming language  
-[Rust syntax explainer](https://github.com/jrvidal/explaine.rs) - An interactive playground to explore Rust syntax, made with WebAssembly and [syn](https://crates.io/crates/syn)
+[Rust syntax explainer](https://github.com/jrvidal/explaine.rs) - An interactive playground to explore Rust syntax, made with WebAssembly and [syn](https://crates.io/crates/syn)  
 [Scastie](https://scastie.scala-lang.org) - Run any Scala program with any library in your browser  
 [SwiftFiddle](https://swiftfiddle.com) - An online playground for creating, sharing and embedding Swift fiddles  
 [TypeScript](https://www.typescriptlang.org/play) - Strongly typed programming language that builds on JavaScript
