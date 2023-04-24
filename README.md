@@ -12,6 +12,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Expo](https://snack.expo.dev/) - Make an app, run it everywhere  
 [Jupyter Notebook](https://jupyter.org/try) - A Next-Generation Notebook Interface  
 [Kubernetes](https://labs.play-with-k8s.com/) - Run a kubernetes cluster in the browser    
+[Lightning CSS](https://lightningcss.dev/playground) - An extremely fast CSS parser, transformer, bundler, and minifier  
 [Markdoc](https://markdoc.dev/sandbox) - Powerful, flexible, markdown-based authoring framework  
 [Open Policy Agent](https://play.openpolicyagent.org/) - Policy-based control for cloud native environments  
 [PHPSandbox](https://play.phpsandbox.io/) - Execute and compare PHP online  
