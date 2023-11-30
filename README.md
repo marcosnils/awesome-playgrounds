@@ -29,6 +29,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Laravel](https://laravelplayground.com/) - Allows you to try out PHP and Laravel all from your browser  
 [Lexical](https://playground.lexical.dev/) - An extensible text editor framework that does things differently  
 [Lit](https://lit.dev/playground/) - A simple library for building fast, lightweight web components  
+[LiveCodes](https://livecodes.io/?new) - A feature-rich, open-source, client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 80+ languages/frameworks  
 [MDXJS](https://mdxjs.com/playground/) - Allows you to use JSX in your markdown content  
 [MudBlazor](https://try.mudblazor.com/) - Play with MudBlazor components entirely in the browser. Test and experiment anytime, anywhere.  
 [Prisma](https://playground.prisma.io/) - Next-generation Node.js and TypeScript ORM for PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, and CockroachDB  
@@ -51,6 +52,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 [Golang](https://play.go.dev) - A statically typed, compiled programming language  
 [Kotlin](https://play.kotlinlang.org) -  A  JVM based cross-platform, statically typed, general-purpose programming language with type inference  
 [Laravel Playground](https://laravelplayground.com) - A PHP web application framework with expressive, elegant syntax  
+[LiveCodes](https://livecodes.io/?new) - A feature-rich, open-source, client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 80+ languages/frameworks  
 [Lua](https://www.lua.org/demo.html) - A lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications  
 [MermaidJS](https://mermaid-js.github.io/mermaid-live-editor/edit) - Diagramming and charting tool  
 [OCaml](https://ocaml.org/play) - A general-purpose, multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features  
