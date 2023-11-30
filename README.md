@@ -46,6 +46,7 @@ List of awesome playgrounds. Inspired by [@rauchg](https://twitter.com/rauchg/st
 ## Languages
 [DartPad](https://dartpad.dev) - A client-optimized language for fast apps on any platform  
 [Elm](https://elm-lang.org/try) - Domain-specific programming language for declaratively creating web browser-based graphical user interface  
+[Flyde](https://play.flyde.dev) - A open-source visual programming toolkit that integrates TypeScript and VSCode
 [GraphQL](https://graphql.org/swapi-graphql) - Data query and manipulation language for APIs  
 [Golang](https://play.go.dev) - A statically typed, compiled programming language  
 [Kotlin](https://play.kotlinlang.org) -  A  JVM based cross-platform, statically typed, general-purpose programming language with type inference  
